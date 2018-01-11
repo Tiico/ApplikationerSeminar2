@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipes>
+    <recipe>
+        <title>Meatballs</title>
+        <image>http://localhost/seminarie2/images/meatballs.jpeg</image>
+        <content>
+            <ingredients>
+                <title>Ingredients:</title>
+                <ingredient>500 g Minced Meat</ingredient>
+                <ingredient>1/2 dl Breadcrumbs</ingredient>
+                <ingredient>1 dl Cream</ingredient>
+                <ingredient>2 tbsp Finely chopped yellow onion</ingredient>
+                <ingredient>1 Egg</ingredient>
+                <ingredient>1/2 tsp Ground black pepper</ingredient>
+                <ingredient>1 1/2 tsp Salt</ingredient>
+                <ingredient>Oil for frying</ingredient>
+            </ingredients>
+            <servings>Servings: 4</servings>
+            <preptime>Prep: 30 min</preptime>
+            <cooktime>Cook: 15 min</cooktime>
+            <totaltime>Total: 45 min</totaltime>
+            <title>Method</title>
+            <instructions>
+                <instruction>Mix breadcrumbs and cream. Let swell 10 min. Add the meat, onions, eggs, salt and pepper. Stir to a smooth smear. Form the batter to even buns. Fry them in butter/oil on medium heat for 3-5 minutes.</instruction>
+            </instructions>
+        </content>
+    </recipe>
+    <recipe>
+        <title>Pancake</title>
+        <image>http://localhost/seminarie2/images/pancakes.png</image>
+        <content>
+            <ingredients>
+                <title>Ingredients:</title>
+                <ingredient>2 1/2 dl of wheat flour</ingredient>
+                <ingredient>1/2 tsp salt</ingredient>
+                <ingredient>6 dl milk</ingredient>
+                <ingredient>3 egg</ingredient>
+                <ingredient>3 Tsp butter</ingredient>
+                <ingredient>oil, for frying</ingredient>
+            </ingredients>
+            <servings>Servings: 4</servings>
+            <preptime>Prep: 15 min</preptime>
+            <cooktime>Cook: 30 min</cooktime>
+            <totaltime>Total: 45 min</totaltime>
+            <instructions>
+                <title>Method</title>
+                <instruction>Mix flour and salt in a bowl. Beat in half of the milk and whisk to a smooth batter. Beat in the rest of the milk and the eggs.</instruction>
+            </instructions>
+        </content>
+    </recipe>
+</recipes>
